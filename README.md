@@ -1,3 +1,5 @@
+Fontos: Csak a saját branchedet használd, ne commitolj a mainre.
+
 Készíts egy HTML oldalt, amely tartalmaz egy táblázatot és egy szöveges tartalom területet. 
 
 Az HTML oldalhoz tartozó CSS fájlban használd a következő pseudo-osztályokat:
