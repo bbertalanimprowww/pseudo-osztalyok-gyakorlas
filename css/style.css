@@ -1,1 +1,58 @@
+th:nth-child(1) {
+    background-color: lightblue;
+}
+th:nth-child(2) {
+    color: gold;
+    text-decoration: underline;
+}
+th:nth-child(3) {
+    border: solid 2px;
+}
+th:nth-child(4) {
+    font-family: Arial,Times;
+}
 
+tr:nth-child(1) td:nth-child(2)  {
+    color: red;
+}
+tr:nth-child(2) td:nth-child(2) {
+    color: blue;
+}
+tr:nth-child(3) td:nth-child(2) {
+    color: green;
+}
+tr:nth-child(4) td:nth-child(2) {
+    color:yellow;
+}
+tr:nth-child(2) td:nth-child(3) {
+    font-style: italic;
+}
+tr:nth-child(3) td:nth-child(3) {
+    border-style: dotted;
+}
+tr:nth-child(4) td:nth-child(3) {
+    border-style: dashed;
+}
+tr:nth-child(1) td:nth-child(4) {
+    font-family: 'Georgia';
+}
+tr:nth-child(2) td:nth-child(4) {
+    font-family: 'Times New Roman';
+}
+tr:nth-child(3) td:nth-child(4) {
+    font-family: 'Arial';
+}
+tr:nth-child(4) td:nth-child(4) {
+    font-family: 'Verdana';
+}
+
+
+
+
+
+p:nth-of-type(2) {
+    background-color: lemonchiffon;
+}
+p:nth-of-type(4) {
+    background-image: url(https://pixabay.com/get/g36f60f5ffedb1d32a994a0c5d25d1dc28bec84aee02c68f7cfdb9ed9f99dee8d35123751eecc357ae660f08500ed1b99616370c283a516c3788ee6af33b79f066db9283be9d85575d28a760d898ae89a_640.jpg) ;
+}
