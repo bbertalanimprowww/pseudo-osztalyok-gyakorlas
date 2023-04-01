@@ -1,1 +1,24 @@
+td:nth-child(1){
+    background: linear-gradient(aliceblue, aqua, aliceblue);
+}
 
+td:nth-child(2){
+    color: gold;
+    text-decoration: underline;
+}
+
+td:nth-child(3){
+    border: 2px solid black;
+}
+
+td:nth-child(4){
+    font-family: Arial, 'Times New Roman';
+}
+
+p:nth-of-type(3){
+    background-color: aquamarine;
+}
+
+p:nth-of-type(5){
+    background-image: url(https://img.freepik.com/free-vector/flat-mosaic-background_23-2149046154.jpg);
+}
