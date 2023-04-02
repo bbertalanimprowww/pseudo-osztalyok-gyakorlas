@@ -1,1 +1,24 @@
+td:nth-child(1) {
+    background: linear-gradient(to bottom, #6ae0c7, #0e6f6f)
+}
 
+td:nth-child(2) {
+    color: gold;
+    text-decoration: underline;
+}
+
+td:nth-child(3) {
+    border: 2px solid black;
+}
+
+td:last-child {
+    font-family: Arial, Times;
+}
+
+p:nth-of-type(3) {
+    background-color: aqua;
+}
+
+p:nth-of-type(5) {
+    background-image: url();
+}
